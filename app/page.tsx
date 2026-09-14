@@ -41,6 +41,12 @@ const projects: Project[] = [
         caption: 'SWAP · box + gap',
         src: '/media/videos/1、SWAP_box-higher_gap.mp4',
       },
+      {
+        kind: 'video',
+        label: '实物测试',
+        caption: 'SWAP · real robot',
+        src: '/media/videos/1、SWAP_box_real.mp4',
+      },
     ],
   },
   {
